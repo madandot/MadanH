@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React JS**
 
-- 💬 Ask me about **HTML, CSS, TailwindCss, JavaScript, React Js**
+- 💬 Ask me about **HTML, CSS, TailwindCSS, JavaScript, React JS**
 
 - 📫 How to reach me **MadanH315140@gmail.com**
 
